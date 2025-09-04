@@ -5,6 +5,7 @@
 <img width="1399" height="503" alt="image" src="https://github.com/user-attachments/assets/cecc12d9-52c1-46fb-b976-feb6dfd36c9c" />
 
 
+
 ## 1. Introducción al desarrollo web
 
 ### Historia y evolución del desarrollo web
